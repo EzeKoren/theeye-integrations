@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 requests==2.25.1
-=======
-requests==2.25.1
->>>>>>> 3be56c7435997fba59e6e61eafe2859a3429277c
+python-dateutil==2.8.2
